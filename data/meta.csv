@@ -1,0 +1,9 @@
+﻿input_species_name,input_taxid,searchword,db,accession,entry,gene,description,organism_OS,organism_taxid_OX,length_aa
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,P08004,CHS1_YEAST,=CHS1,Chitin synthase 1,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,1131
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,P14180,CHS2_YEAST,=CHS2,Chitin synthase 2,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,963
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,P29465,CHS3_YEAST,=CHS3,Chitin synthase 3,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,1165
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,P34226,SKT5_YEAST,=SKT5,Chitin synthase regulator SKT5,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,696
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,P38843,CHS7_YEAST,=CHS7,Chitin synthase export chaperone,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,316
+Saccharomyces cerevisiae,4932,Chitin synthase,sp,Q08054,CSI2_YEAST,=CSI2,Chitin synthase 3 complex protein CSI2,=Saccharomyces cerevisiae (strain ATCC 204508 / S288c),=559292,341
+Yarrowia lipolytica,284591,Chitin synthase,sp,Q6C8U1,CHS7_YARLI,=CHS7,Chitin synthase export chaperone,=Yarrowia lipolytica (strain CLIB 122 / E 150),=284591,335
+Kluyveromyces lactis,28985,Chitin synthase,sp,Q6CRM6,CHS7_KLULA,=CHS7,Chitin synthase export chaperone,=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37),=284590,317
